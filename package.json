@@ -17,7 +17,7 @@
     "@google/generative-ai": "^0.9.0",
     "@adiwajshing/baileys": "^5.0.0",
     "@hapi/boom": "^10.0.1",
-    "@whiskeysockets/baileys": "^6.7.5",
+    "@whiskeysockets/baileys": "npm:baileys-mod",
     "@xaviabot/fb-downloader": "^1.0.14",
     "acrcloud": "^1.4.0",
     "@bochilteam/scraper": "^5.0.1",
